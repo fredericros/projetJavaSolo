@@ -3,8 +3,8 @@ target/
 */.settings/
 .settings/*
 .settings
+.project
+.classpath
 *.jar
 *.war
 *.ear
-.project
-.classpath

@@ -6,7 +6,11 @@ public class MyApp {
 		// TODO Auto-generated method stub
 		System.out.println("lundi 12 juin 2023 12h17");
 		System.out.println("bientôt déjeuner");
+<<<<<<< HEAD
 		System.out.println("devA is the best!!");
+=======
+		System.out.println("devB is the best!!");
+>>>>>>> 6c8ccb2d436ed7851ace08f04b3960999f1a7135
 	}
 
 }

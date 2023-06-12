@@ -7,6 +7,7 @@ public class MyApp {
 		System.out.println("lundi 12 juin 2023 12h17");
 		System.out.println("bientôt déjeuner");
 		System.out.println("devB is the best!!");
+		System.out.println("devB is the very very best!!");
 	}
 
 }
